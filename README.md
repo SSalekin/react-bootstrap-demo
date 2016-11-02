@@ -1,5 +1,5 @@
 # react-redux-helloworld
-Hello, World! app in React and Redux
+Testing collapsable control in React and Redux
 
 ## Run the app
 
