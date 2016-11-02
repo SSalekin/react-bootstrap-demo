@@ -4,7 +4,7 @@ Testing collapsable control in React and Redux
 ## Run the app
 
 ```
-git clone https://github.com/vaibhavmule/react-redux-helloworld.git
+git clone git@github.com:SSalekin/react-bootstrap-demo.git
 
 cd react-redux-helloworld
 npm install
